@@ -1,13 +1,13 @@
 {
     "manifest_version": 3,
-    "name": "Verifact Extension",
+    "name": "Verifact",
     "version": "1.0",
     "description": "Verify claims and fact-check content instantly.",
     "permissions": ["storage", "activeTab", "scripting"],
     "host_permissions": ["<all_urls>"],
   
     "action": {
-      "default_popup": "popup.html",
+      "default_popup": "index.html",
       "default_icon": {
         "16": "icons/icon16.png",
         "48": "icons/icon48.png",
