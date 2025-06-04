@@ -1,0 +1,45 @@
+🎨 6. icons/ (Standard sizes)
+Place these sizes:
+
+16x16 – toolbar
+
+48x48 – extension manager
+
+128x128 – Chrome Web Store
+
+✅ INSTALLING LOCALLY
+Go to chrome://extensions/
+
+Enable "Developer Mode"
+
+Click "Load unpacked"
+
+Select your extension folder
+
+📦 OPTIONAL FEATURES
+Storage API to save data locally (chrome.storage.local)
+
+Context menus
+
+Omnibox keywords
+
+Web-accessible resources (like fonts, images)
+
+🧪 FINAL CHECKLIST
+✅ You have a manifest.json
+✅ You have icons in required sizes
+✅ You have either popup.html or content.js or both
+✅ You can run and see it in chrome://extensions/
+
+Need Extras?
+Let me know if you want to:
+
+Add a settings/options page
+
+Store user preferences
+
+Add hotkeys/keyboard shortcuts
+
+Use React/TypeScript instead of vanilla JS
+
+Want a working ZIP you can start from? I can generate that too.
